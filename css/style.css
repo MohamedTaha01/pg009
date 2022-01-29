@@ -1,0 +1,22 @@
+/* body */
+body {
+  background-color: #3DB2FF;
+}
+
+h1, p {
+  color: #fff;
+  font-family: 'Press Start 2P', cursive;
+}
+
+/* text */
+.text {
+  padding-top: 16rem;
+}
+
+h1 {
+  font-size: 4.5rem;
+}
+
+p {
+  font-size: 0.6rem;
+}
